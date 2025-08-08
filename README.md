@@ -1,5 +1,5 @@
 # Hi, I'm Esther! 👩‍💻
-A **Software Engineer** from **Nairobi, Kenya**. I specialize in **Full-Stack Development** with a focus on **React** and **python(flask & FastApi)**, and I’m constantly exploring new tech and trends to stay ahead.
+A **Full-Stack Software Engineer** from **Nairobi, Kenya**. I specialize in **Full-Stack Development** with a focus on **React** and **python(flask & FastApi)**, and I’m constantly exploring new tech and trends to stay ahead.
 
 ## 🚀 About Me
 - 💼 **Software Engineering Graduate** from **Moringa School**.
