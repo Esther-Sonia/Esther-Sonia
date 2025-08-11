@@ -6,12 +6,6 @@ A **Full-Stack Software Engineer** from **Nairobi, Kenya**. I specialize in **Fu
 - 🔭 Currently enhancing my skills in **Full-Stack Development**, focusing on **React**, **Node.js**, and web optimization.
 - 🎯 Passionate about **problem-solving**, **web performance**, and **SEO strategies**.
 
-## 💻 Tech Stack & Tools:
-- **Languages:** HTML5, CSS3, JavaScript, Python
-- **Front-End:** React, Tailwind CSS
-- **Back-End:** FastAPI, PostgreSQL, SQLAlchemy
-- **Tools:** Git, GitHub, Webpack
-- **Other:** UI/UX Design, SEO, Web optimization
 
 ## 📈 What I'm Currently Working On:
 - [My Travel App](https://github.com/Esther-Sonia/my-travel-app) – A web app to help users plan and track their trips efficiently.
