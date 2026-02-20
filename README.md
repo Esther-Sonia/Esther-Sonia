@@ -8,8 +8,8 @@ A **Full-Stack Software Engineer** from **Nairobi, Kenya**. I specialize in **Fu
 
 
 ## 📈 What I'm Currently Working On:
-- [My Travel App](https://github.com/Esther-Sonia/my-travel-app) – A web app to help users plan and track their trips efficiently.
-- Exploring **new front-end frameworks** and **back-end technologies** to improve my full-stack capabilities.
+- [https://github.com/Esther-Sonia/phone-mart) – An e-commerce web application for selling mobile phones, featuring product listings, inventory management, and integrated payments using M-Pesa for seamless checkout.
+- Exploring new **front-end frameworks** and **back-end technologies** to strengthen my full-stack development skills.
 
 
 ## 🌐 Find Me Online:
